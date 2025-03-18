@@ -114,7 +114,7 @@ audio-to-text/
 ---
 
 ### **File `requirements.txt`**
-Crea un file `requirements.txt` per elencare le dipendenze:
+- dipendenze:
 ```plaintext
 SpeechRecognition==3.10.0
 pydub==0.25.1
