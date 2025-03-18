@@ -108,7 +108,7 @@ audio-to-text/
 ├── audio_to_text.py       # Script principale
 ├── README.md              # Documentazione
 ├── requirements.txt       # File delle dipendenze
-└── LICENSE                # Licenza (opzionale)
+└── LICENSE                # Licenza
 ```
 
 ---
